@@ -1,0 +1,3 @@
+"compartment","n_common_genes","spearman_signed_z","pearson_logFC","direction_concordance"
+"Stromal",10774,0.989273792187414,0.978092291913046,0.961481343976239
+"Myeloid",10401,0.994466257231872,0.993829863142665,0.980386501297952

@@ -1,0 +1,3 @@
+"n_common_genes","spearman_signed_z","pearson_logFC","direction_concordance","compartment","male_control_n","male_LSS_n","fit_status"
+9877,0.836530596267123,0.854346278963107,0.82039080692518,"Stromal",2,2,"OK"
+6670,0.681437666883555,0.641470556240459,0.76311844077961,"Myeloid",2,2,"OK"

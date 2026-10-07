@@ -1,0 +1,14 @@
+check,value
+raw_overall_gwas_exists,TRUE
+data2_clean_exists,TRUE
+s04g_classified_exists,TRUE
+crlf1_candidate_specific_rows_equal_7,TRUE
+lead_rsid,rs2074177
+lead_chr,19
+lead_pos,18616479
+gwas_pm500kb_rows,4817
+gwas_region_contains_lead,TRUE
+gwas_region_ready,TRUE
+local_likely_variant_level_qtl_files,0
+variant_level_molecular_qtl_ready,FALSE
+final_status,HOLD_NEED_VARIANT_LEVEL_MOLECULAR_QTL

@@ -1,0 +1,51 @@
+"gene","Dataset","n_traits","traits","rsids","max_PP_H4"
+"BMP6","FinnGen-R12-GWAS",4,"M13_ARTHROSIS | M13_ARTHROSIS_KNEE | HEIGHT_IRN | M13_ARTHTROSIS_COX","rs13209685",0.984
+"BMP6","GTEx-LCL-txrev-eQTLcatalogue",1,"SLC35B3","rs13209685",0.929
+"BMP6","UKBB-finucane-GWAS",1,"Height","rs13209685",0.876
+"CRLF1","FIN-R12-Somascan-Plasma-Proteomics",1,"CRLF1","rs2074177",0.987
+"CRLF1","FUSION-muscle-naive-exon-eQTLcatalogue",1,"CRLF1","rs2074177",0.939
+"CRLF1","FUSION-muscle-naive-ge-eQTLcatalogue",1,"CRLF1","rs2074177",0.934
+"CRLF1","GTEx-adipose-subcutaneous-tx-eQTLcatalogue",1,"REX1BD","rs2074177",0.852
+"CRLF1","GTEx-adipose-visceral-exon-eQTLcatalogue",1,"REX1BD","rs2074177",0.855
+"CRLF1","GTEx-adipose-visceral-tx-eQTLcatalogue",1,"REX1BD","rs2074177",0.863
+"CRLF1","GTEx-artery-aorta-tx-eQTLcatalogue",1,"REX1BD","rs2074177",0.98
+"CRLF1","GTEx-artery-tibial-exon-eQTLcatalogue",1,"REX1BD","rs2074177",0.95
+"CRLF1","GTEx-brain-anterior-cingulate-cortex-gx10-eQTLcatalogue",1,"KXD1","rs2074177",0.985
+"CRLF1","GTEx-brain-cerebellar-hemisphere-txrev-eQTLcatalogue",1,"REX1BD","rs2074177",0.859
+"CRLF1","GTEx-brain-nucleus-accumbens-exon-eQTLcatalogue",1,"KXD1","rs2074177",0.952
+"CRLF1","GTEx-brain-putamen-exon-eQTLcatalogue",1,"KXD1","rs2074177",0.99
+"CRLF1","GTEx-breast-tx-eQTLcatalogue",1,"REX1BD","rs2074177",0.853
+"CRLF1","GTEx-colon-sigmoid-exon-eQTLcatalogue",1,"REX1BD","rs2074177",0.852
+"CRLF1","GTEx-colon-sigmoid-tx-eQTLcatalogue",1,"REX1BD","rs2074177",0.853
+"CRLF1","GTEx-colon-sigmoid-txrev-eQTLcatalogue",1,"REX1BD","rs2074177",0.906
+"CRLF1","GTEx-colon-transverse-exon-eQTLcatalogue",1,"REX1BD","rs2074177",0.812
+"CRLF1","GTEx-colon-transverse-tx-eQTLcatalogue",1,"REX1BD","rs2074177",0.853
+"CRLF1","GTEx-esophagus-mucosa-exon-eQTLcatalogue",1,"REX1BD","rs2074177",0.853
+"CRLF1","GTEx-esophagus-muscularis-exon-eQTLcatalogue",1,"REX1BD","rs2074177",0.932
+"CRLF1","GTEx-heart-atrial-appendage-exon-eQTLcatalogue",1,"REX1BD","rs2074177",0.853
+"CRLF1","GTEx-liver-tx-eQTLcatalogue",1,"REX1BD","rs2074177",0.858
+"CRLF1","GTEx-lung-exon-eQTLcatalogue",1,"REX1BD","rs2074177",0.853
+"CRLF1","GTEx-lung-tx-eQTLcatalogue",1,"REX1BD","rs2074177",0.876
+"CRLF1","GTEx-muscle-exon-eQTLcatalogue",1,"CRLF1","rs2074177",0.971
+"CRLF1","GTEx-muscle-ge-eQTLcatalogue",1,"CRLF1","rs2074177",0.974
+"CRLF1","GTEx-muscle-txrev-eQTLcatalogue",1,"CRLF1","rs2074177",0.972
+"CRLF1","GTEx-nerve-tibial-ge-eQTLcatalogue",1,"TMEM59L","rs2074177",0.908
+"CRLF1","GTEx-ovary-tx-eQTLcatalogue",1,"REX1BD","rs2074177",0.855
+"CRLF1","GTEx-pancreas-exon-eQTLcatalogue",1,"REX1BD","rs2074177",0.848
+"CRLF1","GTEx-pituitary-tx-eQTLcatalogue",1,"REX1BD","rs2074177",0.946
+"CRLF1","GTEx-prostate-exon-eQTLcatalogue",1,"REX1BD","rs2074177",0.85
+"CRLF1","GTEx-skin-sun-exposed-exon-eQTLcatalogue",1,"REX1BD","rs2074177",0.854
+"CRLF1","GTEx-skin-sun-exposed-tx-eQTLcatalogue",1,"REX1BD","rs2074177",0.865
+"CRLF1","GTEx-small-intestine-tx-eQTLcatalogue",1,"REX1BD","rs2074177",0.85
+"CRLF1","GTEx-testis-exon-eQTLcatalogue",1,"REX1BD","rs2074177",0.852
+"CRLF1","GTEx-thyroid-exon-eQTLcatalogue",1,"REX1BD","rs2074177",0.853
+"CRLF1","GTEx-thyroid-tx-eQTLcatalogue",1,"REX1BD","rs2074177",0.872
+"CRLF1","GTEx-thyroid-txrev-eQTLcatalogue",1,"REX1BD","rs2074177",0.96
+"CRLF1","HipSci-iPSC-tx-eQTLcatalogue",1,"REX1BD","rs2074177",0.995
+"CRLF1","ROSMAP-brain-naive-exon-eQTLcatalogue",1,"REX1BD","rs2074177",0.993
+"CRLF1","ROSMAP-brain-naive-txrev-eQTLcatalogue",1,"REX1BD","rs2074177",0.992
+"CRLF1","TwinsUK-fat-exon-eQTLcatalogue",1,"CRLF1","rs2074177",0.919
+"OTUD7B","FinnGen-R12-GWAS",9,"G6_CARPTU | M13_HALLUXVALGUS | I9_REVASC | I9_CORATHER | M13_SPONDYLOPATHY | I9_IHD | C3_BREAST_EXALLC | HEIGHT_IRN | WEIGHT_IRN","rs11205303",0.998
+"OTUD7B","UKBB-finucane-GWAS",5,"FEV1/FVC ratio | Height | Body weight | Estimated heel bone mineral density | Body fat percentage","rs11205303",0.998
+"OTUD7B","UKBB-PPP-Plasma-Proteomics",1,"PSPN","rs11205303",0.994
+"SOX5","FinnGen-R12-GWAS",10,"M13_DORSOPATHYOTH | M13_DORSOPATHY | M13_SPONDYLOSIS | M13_LOWBACKPAIN | M13_SPONDYLOPATHY | M13_ARTHROSIS | M13_DORSALGIA | M13_LOWBACKPAINORANDSCIATICA | M13_LUMBAR_PROLAPSE | M13_INTERVERTEB","rs12308843",0.999

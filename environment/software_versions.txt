@@ -1,0 +1,47 @@
+Software and computational environment
+
+R
+---
+R analyses were performed in RStudio.
+The full R environment and package information are recorded in:
+environment/sessionInfo.txt
+
+Python analyses
+---------------
+Python 3.13.13
+pandas 3.0.3
+NumPy 2.5.1
+
+The above environment was used for the annotation-correlation analysis
+associated with Reviewer 1 Comment 3.
+
+Stratified LD Score Regression
+------------------------------
+LD Score Regression (LDSC) version 3.0.1
+
+S-LDSC analyses were executed under:
+Python 3.9.23
+
+Reference model:
+baselineLD v2.2
+
+Regression weights:
+1000 Genomes Phase 3 HapMap3 regression-weight LD scores
+with the MHC excluded.
+
+Allele-frequency reference:
+1000 Genomes Phase 3 EUR frequency files.
+
+Operating environment
+---------------------
+Ubuntu 26.04 LTS under Windows Subsystem for Linux 2 (WSL2)
+
+Notes
+-----
+Public reference resources and GWAS summary statistics are not
+redistributed in this repository. Their sources and identifiers are
+documented in the main README.
+
+Local absolute file paths used during the original analysis have been
+removed or replaced with portable repository-relative instructions
+where applicable.

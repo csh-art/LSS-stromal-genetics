@@ -1,0 +1,14 @@
+Reviewer 1 Comment 3: broad-program LD-score correlation audit
+================================================================
+Common SNPs across 8 custom LD-score predictors: 1,190,321
+Condition number of standardized 8-predictor custom matrix: 5.6880
+
+Stromal correlations (sorted by Pearson r):
+    program  pearson_r_with_Stromal  spearman_rho_with_Stromal
+   Pericyte                0.822458                   0.883930
+Endothelial                0.794003                   0.884790
+    Myeloid                0.494632                   0.696865
+ Neutrophil                0.466484                   0.681988
+       T_NK                0.442202                   0.695217
+  B_lineage                0.423495                   0.681037
+        cDC                0.357123                   0.645125
